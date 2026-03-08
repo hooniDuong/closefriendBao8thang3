@@ -223,7 +223,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             title: "Thôi Em Đừng Đi",
             artist: "RPT MCK (feat. Trung Trần)",
-            src: "music/7thoemdungdi/thoiemdungdi.mp3",
+            src: "music/7thoiemdungdi/thoiemdungdi.mp3",
             cover: "music/7thoiemdungdi/7.jpg"
         }
     ];
